@@ -11,4 +11,4 @@
   does not truly show how the model is doing for a classification problem
 
 
-[diceytech porfolio]([https://portfolio.diceytech.co.uk/project_page_detail_view/1673995609841x250625740591333380?ID=1672326336889x347691663782405700](https://portfolio.diceytech.co.uk/project/1673995609841x250625740591333380?ID=1672326336889x347691663782405700))
+[diceytech porfolio](https://portfolio.diceytech.co.uk/project/1673995609841x250625740591333380?ID=1672326336889x347691663782405700)
